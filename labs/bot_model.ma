@@ -11,7 +11,6 @@ fileInfo "product" "Maya 2024";
 fileInfo "version" "2024";
 fileInfo "cutIdentifier" "202304191415-7fa20164c6";
 fileInfo "osv" "Windows 11 Pro v2009 (Build: 22621)";
-fileInfo "license" "student";
 fileInfo "UUID" "8742CEFE-49AA-DAB3-F2CD-8EB22C33186E";
 createNode transform -s -n "persp";
 	rename -uid "EBB779B0-44CB-7CFD-F701-378E7642E03F";
